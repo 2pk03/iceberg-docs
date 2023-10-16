@@ -67,3 +67,8 @@ Starburst is a commercial offering for the [Trino query engine](https://trino.io
 ### [Tabular](https://tabular.io)
 
 [Tabular](https://tabular.io/product/) is a managed warehouse and automation platform. Tabular offers a central store for analytic data that can be used with any query engine or processing framework that supports Iceberg. Tabular warehouses add role-based access control and automatic optimization, clustering, and compaction to Iceberg tables.
+
+### [DataBloom](https://www.blossomsky.io/)
+
+**Blossom Sky** is a pioneering platform designed for businesses seeking a sustainable edge in the AI landscape, supporting multiple data processing platforms and formats. By seamlessly integrating disparate data sources, it avoids creating new data silos and technological dependencies. Blossom Sky enables green AI by distributing model training across devices, ensuring energy efficiency and minimizing the carbon footprint. At the same time, its decentralized approach prioritizes data privacy, keeping sensitive information localized. Blossom Sky uses [Apache Wayang (incubating)](https://wayang.apache.org/) as cose engine, supporting Iceberg tables natively.
+
